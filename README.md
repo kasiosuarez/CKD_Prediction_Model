@@ -1,8 +1,15 @@
-CKD_Prediction_Model.py   # Main Python script
-requirements.txt          # List of dependencies
+CKD_Prediction_Model.py   
+
+-Main Python script
+
+requirements.txt          
+
+-List of dependencies
 
 Setup Instructions
+
 1.Clone the repository by pasting this in terminal
+
 git clone https://github.com/kasiosuarez/CKD_Prediction_Model.git  
 cd CKD_Prediction_Model
 
@@ -11,8 +18,11 @@ cd CKD_Prediction_Model
 pip install -r requirements.txt
 
 4. Prepare Data Folder
+
 Create a folder called data in the project root.
+
 Download the following NHANES .xpt datasets from the CDC website and place them inside data:
+
 DEMO_L.xpt
 
 ALB_CR_L.xpt (Urine Albumin & Creatinine)
