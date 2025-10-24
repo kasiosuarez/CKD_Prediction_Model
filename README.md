@@ -21,4 +21,5 @@ BIOPRO_L.xpt (Biochemistry Profile, includes Serum Creatinine)
 (4,5, and 12 in references)
 
 4. Run the script
+
 python CKD_Prediction_Model.py
