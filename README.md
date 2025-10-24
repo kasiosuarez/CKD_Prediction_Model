@@ -3,6 +3,8 @@ requirements.txt          # List of dependencies
 
 Setup Instructions
 1.Clone the repository by pasting this in terminal
+git clone https://github.com/kasiosuarez/CKD_Prediction_Model.git  
+cd CKD_Prediction_Model
 
 2. Install dependencies
    pip install -r requirements.txt
