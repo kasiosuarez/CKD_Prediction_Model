@@ -7,9 +7,10 @@ git clone https://github.com/kasiosuarez/CKD_Prediction_Model.git
 cd CKD_Prediction_Model
 
 2. Install dependencies
-   pip install -r requirements.txt
 
-3. Prepare Data Folder
+pip install -r requirements.txt
+
+4. Prepare Data Folder
 Create a folder called data in the project root.
 Download the following NHANES .xpt datasets from the CDC website and place them inside data:
 DEMO_L.xpt
