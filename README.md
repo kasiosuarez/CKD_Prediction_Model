@@ -17,7 +17,7 @@ cd CKD_Prediction_Model
 
 pip install -r requirements.txt
 
-4. Prepare Data Folder
+3. Prepare Data Folder
 
 Create a folder called data in the project root.
 
